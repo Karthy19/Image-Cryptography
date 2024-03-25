@@ -12,19 +12,17 @@
         <script type="module" src="https://pyscript.net/releases/2023.11.1/core.js"></script>
     </head>
     <body>
-        <header style="background-color: rgb(123 237 131);" class="heading"> 
-         <div class="row-container heading">
-            <img src="./assets/icons/rubik.ico" width="50px" height="50px"/>
-            <h1><a href="https://www.hindawi.com/journals/jece/2012/173931/" target="blank">Image Cryptography</a></h1>
-            <img src="./assets/icons/rubik.ico" width="50px" height="50px"/>
-         </div>
+        <header style="background-color: rgb(123 237 131);" class="heading">
+            <div class="row-container">
+                <img src="./assets/icons/rubik.ico" alt="Rubik's Icon" width="50px" height="50px"/>
+                <h1><a href="https://www.hindawi.com/journals/jece/2012/173931/" target="_blank">Rubik's Principle based Image Cryptography</a></h1>
+                <img src="./assets/icons/rubik.ico" alt="Rubik's Icon" width="50px" height="50px"/>
+            </div>
         </header>
-          
         <div class="row-container navbar">
             <button class="button" id="encrypt-nav-item"> Encryption </button>
             <button class="button" id="decrypt-nav-item"> Decryption </button>
         </div>
-
         <div class="grid-container">
             <h2 class="grid-item input-img-heading">Input Image</h2>
             <h2 class="grid-item output-img-heading">Output Image</h2>
@@ -49,7 +47,6 @@
         </div>
         <div style="display: none;" id="crypto-key"></div>
         <hr/>
-
         <script src="./js/script.js"></script>
         <script type="py" src="./pyscript/image_crypto.py" config="./pyscript/pyscript.toml"></script>
     </body>
