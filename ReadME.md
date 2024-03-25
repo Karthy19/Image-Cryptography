@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Cryptography</title>
+    <title>Image  Cryptography</title>
     <link rel="icon" href="./assets/icons/rubik.ico" type="image/x-icon">
     <link rel="stylesheet" href="./css/style.css"/>
     <link rel="stylesheet" href="https://pyscript.net/releases/2023.11.1/core.css" />
