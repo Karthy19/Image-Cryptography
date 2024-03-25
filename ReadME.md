@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <title>Image Cryptography</title>
@@ -13,13 +13,11 @@
     </head>
     <body>
         <!-- Header section -->
-        <header style="background-color: rgb(123 237 131);" class="heading">
-            <div class="row-container heading">
-                <img src="./assets/icons/rubik.ico" width="50px" height="50px"/>
-                <h1><a href="https://www.hindawi.com/journals/jece/2012/173931/" target="blank">Image Cryptography</a></h1>
-                <img src="./assets/icons/rubik.ico" width="50px" height="50px"/>
-            </div>
-        </header>
+        <div class="row-container heading">
+            <img src="./assets/icons/rubik.ico" width="50px" height="50px"/>
+            <h1><a href="https://www.hindawi.com/journals/jece/2012/173931/" target="blank">Image Cryptography</a></h1>
+            <img src="./assets/icons/rubik.ico" width="50px" height="50px"/>
+        </div>
 
         <!-- Nav bar for encryption & decryption -->
         <div class="row-container navbar">
