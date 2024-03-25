@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Image Cryptography</title>
+        <title>Image  Cryptography</title>
         <meta charset="UTF-8">
         <link rel="icon" href="./assets/icons/rubik.ico" type="image/x-icon">
         <link rel="stylesheet" href="./css/style.css"/>
